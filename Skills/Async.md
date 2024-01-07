@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch: 🖐️ used
   - Non-blocking
   - Async I/O
-  - Thread pool
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,13 +13,13 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread
+  - Thread: 🖐️ used
   - Process
 - Async contracts
   - Callbacks
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: 👂 heard
+  - Mutex: 🎓 known
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers

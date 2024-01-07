@@ -1,56 +1,56 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 🖐️ used
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🙋 explained
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming
+  - Parallel programming: 🖐️ used
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class:
   - Object form
   - instance
   - Introspection
-  - Reflection
+  - Reflection: 🖐️ used
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
+  - Singleton: 🖐️ used
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 👂 heard
   - Command
   - Iterator
   - State

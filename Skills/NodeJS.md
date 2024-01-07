@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js:
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -67,12 +67,12 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
-  - GoF patterns
+  - SOLID:
+  - GoF patterns:
   - Distributed systems
   - Highload applications
   - Clean architecture
-  - DDD
+  - DDD:
   - Message Queue
   - CQS
   - CQRS
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
   - UDP
   - TLS
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 👂 heard
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -117,7 +117,7 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD
+  - CI/CD: 
   - Readable
   - Writable
   - Transform
