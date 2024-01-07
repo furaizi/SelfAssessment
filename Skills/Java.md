@@ -1,0 +1,117 @@
+## Java
+
+- Language
+  - instanceof: 🙋 explained
+  - iterator: 🖐️ used
+  - chaining: 🖐️ used
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🙋 explained
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - stack trace: 🖐️ used
+- Statements
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for each: 🙋 explained
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export
+  - label: 🙋 explained
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+- Functions
+  - function declaration: 🙋 explained
+  - return: 🙋 explained
+  - functional interface: 🙋 explained
+  - functional object: 🙋 explained
+  - lambda function: 🖐️ used
+  - method reference: 🖐️ used
+- Data structures
+  - ArrayList: 🙋 explained
+  - LinkedList: constructed
+  - mixin: 👂 heard
+  - HashMap: 🙋 explained
+  - LinkedHashMap: 🙋 explained
+  - TreeMap: 🙋 explained
+  - HashSet: 🙋 explained
+  - LinkedHashSet: 🙋 explained
+  - TreeSet: 🙋 explained
+  - null: 🖐️ used
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
+  - timers: 👂 heard
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
+  - BigInteger: 🖐️ used
+- OOP
+  - this: 🙋 explained
+  - super: 🙋 explained
+  - class: 🙋 explained
+  - local class: 🙋 explained
+  - anonymous class: 🙋 explained
+  - inner class: 🎓 known
+  - nested class: 🎓 known
+  - private class: 🙋 explained
+  - final class: 🙋 explained
+  - method: 🙋 explained
+  - static method: 🙋 explained
+  - final method: 🙋 explained
+  - private method: 🙋 explained
+  - public method: 🙋 explained
+  - abstract method: 🙋 explained
+  - default method: 🙋 explained
+  - package access method: 🙋 explained
+  - protected method: 🙋 explained
+  - getter and setter: 🙋 explained
+  - hashcode and equals contract: 🙋 explained
+  - constructor: 🙋 explained
+  - private constructor: 🙋 explained
+  - field: 🙋 explained
+  - final field: 🙋 explained
+  - private field: 🙋 explained
+  - package access field: 🙋 explained
+  - protected fiel: 🙋 explained
+  - public field: 🙋 explained
+  - static field: 🙋 explained
+  - enum: 🙋 explained
+  - abstract class: 🙋 explained
+  - interface: 🙋 explained
+  - inheritance: 🙋 explained
+  - polymorphism: 🙋 explained
+  - abstraction: 🙋 explained
+  - encapsulation: 🙋 explained
+  - generics: 🙋 explained
+  - type erasure: 🙋 explained
+  - overriding: 🙋 explained
+  - overloading: 🙋 explained
+  - wildcards: 🖐️ used
+- Multithreading
+  - Runnable: 🖐️ used
+  - Thread: 🖐️ used
+  - synchronized method: 🙋 explained
+  - synchronized block: 🙋 explained
+  - volatile field: 🖐️ used
+  - daemon thread: 🎓 known
+  - atomic integer: 🖐️ used
+  - wait/notify: 🖐️ used
+  - consumer/producer: 🖐️ used
+  - mutex: 🙋 explained
+  - deadlock: 🙋 explained
+  - race condition: 🙋 explained
+  - Callable: 🎓 known
+  - Future: 🎓 known
+- API
+  - Collection API: 🙋 explained
+  - Reflection API: 🖐️ used
+  - Date/Time API: 🖐️ used
+  - Stream API: 🖐️ used
+  - IO API: 🖐️ used
+  - NIO API: 🎓 known
+- Infrastructure
+  - JDK: 🖐️ used
+  - JVM: 🖐️ used
