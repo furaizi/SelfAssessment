@@ -115,4 +115,3 @@
 - Infrastructure
   - JDK: 🖐️ used
   - JVM: 🖐️ used
-
