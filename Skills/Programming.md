@@ -5,7 +5,7 @@
   - identifier: 🖐️ used
   - variable: 🖐️ used
   - constant: 🖐️ used
-  - scalar:
+  - scalar
   - literal: 🙋 explained
   - expression: 🙋 explained
   - heap: 🎓 known
@@ -73,7 +73,7 @@
   - tree: 🖐️ used
   - graph: 🎓 known
   - iterator: 🎓 known
-  - mutable state:
+  - mutable state
   - immutable state
   - serialization: 🙋 explained
   - string parsing: 🖐️ used
