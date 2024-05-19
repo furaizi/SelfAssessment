@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js:
+  - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -93,7 +93,7 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD: 
+  - CI/CD
   - Readable
   - Writable
   - Transform

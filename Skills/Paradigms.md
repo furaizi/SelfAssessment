@@ -2,23 +2,23 @@
 
 - Theory
   - Procedural programming: 🖐️ used
-  - Imperative programming e
-  - Structured programming e
+  - Imperative programming: 🙋 explained
+  - Structured programming: 🙋 explained
   - Non-structured programming
   - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming: 🙋 explained
   - Object-based programming
-  - Generic programming k
+  - Generic programming: 🎓 known
   - Concurrent computing
   - Asyncronous programming
   - Parallel programming: 🖐️ used
-  - Reactive programming h
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages h
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming h
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,10 +27,10 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor e
-  - Operator `new` e 
-  - Static method e
-  - Method e
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
   - Async method
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
@@ -42,50 +42,50 @@
   - Abstract class: 🙋 explained
   - Interface: 🙋 explained
   - Encapsulation: 🙋 explained
-  - Hidden class:
+  - Hidden class
   - Object form
-  - Instance k
+  - Instance: 🎓 known
   - Introspection
-  - Reflection e
-  - The diamond problem e
+  - Reflection: 🙋 explained
+  - The diamond problem: 🙋 explained
 - GRASP
   - Information expert
   - Creator
   - Controller
   - Indirection
-  - Low coupling k
-  - High cohesion k
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) k
-  - Open–closed principle (OCP) k
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: k
-  - Abstract Factory: k
-  - Adapter: u
-  - Observer: k
-  - Strategy k
-  - Facade k
-  - Proxy: u
-  - Chain of Responsibility: k
-  - Command u
-  - Iterator u
-  - State k
-  - Bridge k
-  - Builder k
-  - Prototype k
-  - Composite k
-  - Decorator k
-  - Flyweight u
-  - Mediator k
-  - Memento k
-  - Template Method k
-  - Visitor k
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🖐️ used
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🎓 known
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 🖐️ used
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
   - Reactor
   - Active object
-  - Delegation u
+  - Delegation: 🖐️ used

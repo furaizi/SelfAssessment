@@ -1,42 +1,42 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain k
-  - Algorithm c
-  - Syntax e
-  - Semantics k
-  - Abstraction u
-  - Paradigm k
-  - Programm k
-  - Programming paradigm e
-  - Programming language e
-  - Contract k
-  - Module k
-  - Library e
-  - Package e
-  - Component k
-  - Framework u
-  - Platform k
-  - Source code e
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm: 🚀 constructed
+  - Syntax: 🙋 explained
+  - Semantics: 🎓 known
+  - Abstraction: 🖐️ used
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🙋 explained
+  - Contract: 🎓 known
+  - Module: 🎓 known
+  - Library: 🙋 explained
+  - Package: 🙋 explained
+  - Component: 🎓 known
+  - Framework: 🖐️ used
+  - Platform: 🎓 known
+  - Source code: 🙋 explained
   - Object code
-  - Machine code k
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering k
-  - Decomposition k
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
   - Control flow
-  - Data flow k
-  - Code reuse k
+  - Data flow: 🎓 known
+  - Code reuse: 🎓 known
   - Defensive programming
-  - Don't repeat yourself (DRY) u
-  - KISS principle u
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
   - value: 🖐️ used
   - identifier: 🖐️ used
   - variable: 🖐️ used
   - constant: 🖐️ used
-  - scalar:
+  - scalar
   - literal: 🙋 explained
   - expression: 🙋 explained
   - heap: 🎓 known
@@ -90,7 +90,6 @@
   - enum: 🙋 explained
   - instance: 👂 heard
   - object: 🙋 explained
-  - class: 🙋 explained
   - collection: 🖐️ used
   - set: 🙋 explained
   - hash table: 🙋 explained
@@ -104,19 +103,19 @@
   - tree: 🖐️ used
   - graph: 🎓 known
   - iterator: 🎓 known
-  - mutable state: k
-  - immutable state k
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
   - serialization: 🙋 explained
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🎓 known
   - transpiler
-  - linter h
+  - linter: 👂 heard
   - polyfill: 👂 heard
   - debugger: 🖐️ used
   - garbage collection: 🙋 explained
   - refactoring: 🎓 known
-  - code review k
+  - code review: 🎓 known
   - antipatterns: 👂 heard
   - paradigm: 🎓 known
   - algorithm: 🙋 explained
@@ -125,7 +124,7 @@
   - complexity
   - decomposition: 👂 heard
   - spaghetti: 👂 heard
-  - silver bullet k
+  - silver bullet: 🎓 known
   - not invented here
   - dead code
   - unreachable code
