@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Model k
+  - Modeling k
+  - Subject domain k
+  - Algorithm c
+  - Syntax e
+  - Semantics k
+  - Abstraction u
+  - Paradigm k
+  - Programm k
+  - Programming paradigm e
+  - Programming language e
+  - Contract k
+  - Module k
+  - Library e
+  - Package e
+  - Component k
+  - Framework u
+  - Platform k
+  - Source code e
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering k
+  - Decomposition k
   - Control flow
-  - Data flow
-  - Code reuse
+  - Data flow k
+  - Code reuse k
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
   - value: 🖐️ used
   - identifier: 🖐️ used
@@ -104,19 +104,19 @@
   - tree: 🖐️ used
   - graph: 🎓 known
   - iterator: 🎓 known
-  - mutable state:
-  - immutable state
+  - mutable state: k
+  - immutable state k
   - serialization: 🙋 explained
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🎓 known
   - transpiler
-  - linter
+  - linter h
   - polyfill: 👂 heard
   - debugger: 🖐️ used
   - garbage collection: 🙋 explained
   - refactoring: 🎓 known
-  - code review
+  - code review k
   - antipatterns: 👂 heard
   - paradigm: 🎓 known
   - algorithm: 🙋 explained
@@ -125,7 +125,7 @@
   - complexity
   - decomposition: 👂 heard
   - spaghetti: 👂 heard
-  - silver bullet
+  - silver bullet k
   - not invented here
   - dead code
   - unreachable code

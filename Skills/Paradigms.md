@@ -2,23 +2,23 @@
 
 - Theory
   - Procedural programming: 🖐️ used
-  - Imperative programming
-  - Structured programming
+  - Imperative programming e
+  - Structured programming e
   - Non-structured programming
   - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming: 🙋 explained
   - Object-based programming
-  - Generic programming
+  - Generic programming k
   - Concurrent computing
   - Asyncronous programming
   - Parallel programming: 🖐️ used
-  - Reactive programming
+  - Reactive programming h
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages h
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming
+  - Metaprogramming h
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,10 +27,10 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor e
+  - Operator `new` e 
+  - Static method e
+  - Method e
   - Async method
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
@@ -44,48 +44,48 @@
   - Encapsulation: 🙋 explained
   - Hidden class:
   - Object form
-  - Instance
+  - Instance k
   - Introspection
-  - Reflection
-  - The diamond problem
+  - Reflection e
+  - The diamond problem e
 - GRASP
   - Information expert
   - Creator
   - Controller
   - Indirection
-  - Low coupling
-  - High cohesion
+  - Low coupling k
+  - High cohesion k
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
+  - Single-responsibility principle (SRP) k
+  - Open–closed principle (OCP) k
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy
-  - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 👂 heard
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Factory Method: k
+  - Abstract Factory: k
+  - Adapter: u
+  - Observer: k
+  - Strategy k
+  - Facade k
+  - Proxy: u
+  - Chain of Responsibility: k
+  - Command u
+  - Iterator u
+  - State k
+  - Bridge k
+  - Builder k
+  - Prototype k
+  - Composite k
+  - Decorator k
+  - Flyweight u
+  - Mediator k
+  - Memento k
+  - Template Method k
+  - Visitor k
   - Reactor
   - Active object
-  - Delegation
+  - Delegation u
