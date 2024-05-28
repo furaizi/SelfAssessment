@@ -1,11 +1,42 @@
 ## Programming fundamental concepts
 
+- Concepts
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm: 🚀 constructed
+  - Syntax: 🙋 explained
+  - Semantics: 🎓 known
+  - Abstraction: 🖐️ used
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🙋 explained
+  - Contract: 🎓 known
+  - Module: 🎓 known
+  - Library: 🙋 explained
+  - Package: 🙋 explained
+  - Component: 🎓 known
+  - Framework: 🖐️ used
+  - Platform: 🎓 known
+  - Source code: 🙋 explained
+  - Object code
+  - Machine code: 🎓 known
+  - Microcode
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
+  - Control flow
+  - Data flow: 🎓 known
+  - Code reuse: 🎓 known
+  - Defensive programming
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
   - value: 🖐️ used
   - identifier: 🖐️ used
   - variable: 🖐️ used
   - constant: 🖐️ used
-  - scalar:
+  - scalar
   - literal: 🙋 explained
   - expression: 🙋 explained
   - heap: 🎓 known
@@ -59,7 +90,6 @@
   - enum: 🙋 explained
   - instance: 👂 heard
   - object: 🙋 explained
-  - class: 🙋 explained
   - collection: 🖐️ used
   - set: 🙋 explained
   - hash table: 🙋 explained
@@ -73,19 +103,19 @@
   - tree: 🖐️ used
   - graph: 🎓 known
   - iterator: 🎓 known
-  - mutable state:
-  - immutable state
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
   - serialization: 🙋 explained
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🎓 known
   - transpiler
-  - linter
+  - linter: 👂 heard
   - polyfill: 👂 heard
   - debugger: 🖐️ used
   - garbage collection: 🙋 explained
   - refactoring: 🎓 known
-  - code review
+  - code review: 🎓 known
   - antipatterns: 👂 heard
   - paradigm: 🎓 known
   - algorithm: 🙋 explained
@@ -94,7 +124,7 @@
   - complexity
   - decomposition: 👂 heard
   - spaghetti: 👂 heard
-  - silver bullet
+  - silver bullet: 🎓 known
   - not invented here
   - dead code
   - unreachable code

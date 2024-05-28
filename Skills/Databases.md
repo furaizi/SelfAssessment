@@ -1,0 +1,94 @@
+## Databases
+
+- Theory and concepts
+  - Data types: 🎓 known
+  - Performance tuning
+  - Migrations: 👂 heard
+  - Schema versioning
+  - Backup and recovery
+  - Database scalability
+  - Relational databases: 🖐️ used
+  - Key-value store: 🎓 known
+  - Tuple store: 🎓 known
+  - Graph databases
+  - Object databases
+  - Column databases
+  - Navigational databases
+  - Hierarchical databases
+  - In-memory databases: 🎓 known
+  - Inverted index
+  - Data control language (DCL)
+  - Data definition language (DDL)
+  - Data manipulation language (DML)
+  - Data query language (DQL)
+- Relational
+  - Entity-Relationship Diagram: 🎓 known
+  - Normal forms
+  - Indexing
+  - Primary keys: 🎓 known
+  - Foreign keys: 🎓 known
+  - Transactions: 🎓 known
+  - Views
+  - Subqueries
+  - Stored procedures
+  - SQL functions: 🎓 known
+  - Materialized views
+  - Replications
+  - Virtualization
+- SQL
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`
+  - `DEFAULT`
+  - `INDEX`
+  - `UNIQUE`
+  - `GRANT`
+  - `REVOKE`
+  - `DENY`
+  - `EXPLAIN`
+- Engines
+  - PostgreSQL: 🖐️ used
+  - Oracle
+  - MySQL: 🖐️ used
+  - MariaDB
+  - MS SQL Server
+  - Redis: 👂 heard
+  - Rabbit
+  - MongoDB: 🎓 known
+  - Memcached
+  - Riak
+  - DB2
+  - SQLite
+  - DynamoDB
+  - Firebase
+- Data engineering
+  - Data warehousing
+  - Business intelligence
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases
+  - Data Visualization

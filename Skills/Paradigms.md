@@ -2,27 +2,33 @@
 
 - Theory
   - Procedural programming: 🖐️ used
-  - Imperative programming
-  - Structured programming
+  - Imperative programming: 🙋 explained
+  - Structured programming: 🙋 explained
   - Non-structured programming
   - Functional programming: 🖐️ used
   - Prototype-based programming
   - Object-oriented programming: 🙋 explained
   - Object-based programming
-  - Generic programming
+  - Generic programming: 🎓 known
   - Concurrent computing
   - Asyncronous programming
   - Parallel programming: 🖐️ used
-  - Reactive programming
-  - FRP (Functional-reactive)
+  - Reactive programming: 👂 heard
+  - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Actor model
+  - Lambda calculus
+  - Black box
+  - Information hiding
+  - Aspect-oriented programming
+  - Anemic domain model
+  - Class composition
 - OOP basics
-  - constructor: 🙋 explained
-  - new: 🙋 explained
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
   - Static method: 🙋 explained
   - Method: 🙋 explained
   - Async method
@@ -36,31 +42,50 @@
   - Abstract class: 🙋 explained
   - Interface: 🙋 explained
   - Encapsulation: 🙋 explained
-  - Hidden class:
+  - Hidden class
   - Object form
-  - instance
+  - Instance: 🎓 known
   - Introspection
-  - Reflection: 🖐️ used
+  - Reflection: 🙋 explained
+  - The diamond problem: 🙋 explained
+- GRASP
+  - Information expert
+  - Creator
+  - Controller
+  - Indirection
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations
+  - Pure fabrication
+- SOLID
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP)
+  - Interface segregation principle (ISP)
+  - Dependency inversion principle (DIP)
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy
-  - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 👂 heard
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🖐️ used
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🎓 known
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 🖐️ used
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
+  - Reactor
+  - Active object
+  - Delegation: 🖐️ used

@@ -33,7 +33,7 @@
   - method reference: 🖐️ used
 - Data structures
   - ArrayList: 🙋 explained
-  - LinkedList: constructed
+  - LinkedList: 🚀 constructed
   - mixin: 👂 heard
   - HashMap: 🙋 explained
   - LinkedHashMap: 🙋 explained
